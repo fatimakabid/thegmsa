@@ -4,7 +4,8 @@ body {
   font-family: sans-serif;
   margin: 100px;
 }
-div.about-gmsa {
+div.buttons {
   min-height: 0vh;
   width: 100vw;
+  display: ;
 }
