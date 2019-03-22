@@ -8,10 +8,17 @@ div.about-gmsa {
   min-height: 0vh;
   width: 100vw;
 }
-div.about-theassembly {
+
+div.about-title {
   color:rgb(105, 105, 105);
   font-family:georgia;
   text-align: center;
+}
+
+div.about-paragraph {
+  color:rgb(105, 105, 105);
+  font-family:georgia;
+  text-align: justify;
 
 }
 .col-md-4{
