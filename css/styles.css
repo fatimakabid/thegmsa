@@ -4,14 +4,15 @@ body {
   font-family: georgia;
   margin: 100px;
 }
+
 div.about-gmsa {
   min-height: 0vh;
   width: 100vw;
 }
-div.about-title {
+
+li.nav-item {
   color:rgb(105, 105, 105);
   font-family:verdana;
-  text-align: center;
 }
 
 div.about-paragraph {
