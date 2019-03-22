@@ -13,28 +13,34 @@ div.about-theassembly {
   font-family:sans-serif;
 
 }
-div.members {
-  
-}
 
-li:hover {
+.union:hover {
   color: rgb(148, 0, 211);
   transition: 0.6 ease;
   font-size: 1.2em;
-
 }
-li.MMU {
-
+.col-md-4{
+  display: inline-block;
+  margin-left:-10px;
 }
-li.RNCM {
-
+.col-md-4 img{
+  width:100%;
+  height:auto;
 }
-li.UOB {
 
+body .carousel-control-prev-icon,
+body .carousel-indicators li,
+body .carousel-control-next-icon{
+  background-color:#000;
 }
-li.UOM {
 
+span.carousel-control-prev-icon {
+ position: relative;
+ bottom: 40px;
+ right: 40px;
 }
-li.UOS {
 
+span.carousel-control-next-icon {
+ position: relative;
+ bottom: 40px;
 }
