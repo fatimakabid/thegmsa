@@ -10,14 +10,9 @@ div.about-gmsa {
 }
 div.about-theassembly {
   color:rgb(105, 105, 105);
-  font-family:sans-serif;
+  font-family:georgia;
+  text-align: center;
 
-}
-
-.union:hover {
-  color: rgb(148, 0, 211);
-  transition: 0.6 ease;
-  font-size: 1.2em;
 }
 .col-md-4{
   display: inline-block;
