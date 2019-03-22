@@ -15,6 +15,11 @@ li.nav-item {
   font-family:verdana;
 }
 
+a.navbar-light .navbar-brand .nav-link {
+  color:rgb(5, 5, 5);
+  font-family:verdana;
+}
+
 div.about-paragraph {
   color:rgb(105, 105, 105);
   font-family:verdana;
