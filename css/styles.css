@@ -10,19 +10,21 @@ div.about-gmsa {
 }
 div.about-title {
   color:rgb(105, 105, 105);
-  font-family:georgia;
+  font-family:verdana;
   text-align: center;
 }
 
 div.about-paragraph {
   color:rgb(105, 105, 105);
-  font-family:georgia;
+  font-family:verdana;
   text-align: justify;
 
 }
 .col-md-4{
   display: inline-block;
   margin-left:-10px;
+  color:rgb(105, 105, 105);
+  font-family:verdana;
 }
 .col-md-4 img{
   width:100%;
@@ -33,15 +35,19 @@ body .carousel-control-prev-icon,
 body .carousel-indicators li,
 body .carousel-control-next-icon{
   background-color:#000;
+  color:rgb(105, 105, 105);
+  font-family:verdana;
 }
 
 span.carousel-control-prev-icon {
  position: relative;
  bottom: 40px;
  right: 40px;
+ color:rgb(105, 105, 105);
 }
 
 span.carousel-control-next-icon {
  position: relative;
  bottom: 40px;
+ color:rgb(105, 105, 105);
 }
