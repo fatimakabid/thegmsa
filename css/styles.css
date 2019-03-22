@@ -1,14 +1,13 @@
 
 body {
   color: rgb(105, 105, 105);
-  font-family: sans-serif;
+  font-family: georgia;
   margin: 100px;
 }
 div.about-gmsa {
   min-height: 0vh;
   width: 100vw;
 }
-
 div.about-title {
   color:rgb(105, 105, 105);
   font-family:georgia;
