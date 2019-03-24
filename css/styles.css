@@ -3,6 +3,7 @@ body {
   color: rgb(0, 0, 0);
   font-family: sans-serif;
   margin: 100px;
+  background-image: url(https://i.imgur.com/GfD2WxE.jpg);
 }
 div.buttons {
   margin: 100px;
@@ -14,5 +15,43 @@ div.buttons {
 }
 div.titles {
   margin: 100px;
-  
+  background-color: white;
+  padding: 100px;
+}
+div.card {
+  margin: 100px;
+}
+#wrapper {
+  margin: 100px;
+  width: 1000px;
+}
+#transport {
+  width: 200px;
+  float: left;
+  background-color: white;
+}
+#housing {
+  width: 200px;
+  float: left;
+  background-color: white;
+}
+#education {
+  width: 200px;
+  float: left;
+  background-color: white;
+}
+#safety {
+  width: 200px;
+  float: left;
+  background-color: white;
+}
+#sustainability {
+  width: 200px;
+  float: left;
+  background-color: white;
+}
+#health {
+  width: 200px;
+  float: left;
+  background-color: white;
 }
