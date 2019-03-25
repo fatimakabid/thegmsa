@@ -61,27 +61,10 @@ div.about-theassembly {
 
 }
 div.members {
-  
+
 }
 
 li:hover {
   color: rgb(148, 0, 211);
   transition: 0.6 ease;
   font-size: 1.2em;
-
-}
-li.MMU {
-
-}
-li.RNCM {
-
-}
-li.UOB {
-
-}
-li.UOM {
-
-}
-li.UOS {
-
-}
