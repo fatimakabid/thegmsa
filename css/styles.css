@@ -1,10 +1,11 @@
 
 body {
   color: rgb(105, 105, 105);
-  font-family: sans-serif;
+  font-family: georgia;
   margin: 100px;
   background-color: white;
 }
+
 div.buttons {
   margin: 100px;
   align-items: center;
@@ -68,3 +69,57 @@ li:hover {
   color: rgb(148, 0, 211);
   transition: 0.6 ease;
   font-size: 1.2em;
+}
+
+div.about-gmsa {
+    min-height: 0vh;
+    width: 100vw;
+  }
+
+  li.nav-item {
+    color:rgb(105, 105, 105);
+    font-family:verdana;
+  }
+
+  a.navbar-light .navbar-brand .nav-link {
+    color:rgb(5, 5, 5);
+    font-family:verdana;
+  }
+
+  div.about-paragraph {
+    color:rgb(105, 105, 105);
+    font-family:verdana;
+    text-align: justify;
+
+  }
+  .col-md-4{
+    display: inline-block;
+    margin-left:-10px;
+    color:rgb(105, 105, 105);
+    font-family:verdana;
+  }
+  .col-md-4 img{
+    width:100%;
+    height:auto;
+  }
+
+  body .carousel-control-prev-icon,
+  body .carousel-indicators li,
+  body .carousel-control-next-icon{
+    background-color:#000;
+    color:rgb(105, 105, 105);
+    font-family:verdana;
+  }
+
+  span.carousel-control-prev-icon {
+   position: relative;
+   bottom: 40px;
+   right: 40px;
+   color:rgb(105, 105, 105);
+  }
+
+  span.carousel-control-next-icon {
+   position: relative;
+   bottom: 40px;
+   color:rgb(105, 105, 105);
+  }
