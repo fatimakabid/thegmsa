@@ -63,9 +63,10 @@
     font-family:verdana;
   }
 
-  div.members {
+span.sr-only {
+  color: rgb (0,0,0)
+}
 
-  }
 
   li:hover {
     color: rgb(148, 0, 211);
